@@ -38,7 +38,7 @@ public class CaptchaEvent implements Listener {
                 CapController.getVerify().put(p, CapController.getStatus() == Status.DISABLE);
                 if(CapController.getVerify().get(p)){
                     BungeeConnector.sendJSON(p, "User");
-                    p.sendMessage(ChatColor.GREEN + "Captcha compeltado automaticamente, inicia sesión!");
+                    p.sendMessage(ChatColor.GREEN + "Captcha completado automaticamente, inicia sesión!");
                     p.playSound(p.getLocation(), Sound.NOTE_PLING, 5.0F, 5.0F);
                 }
             }
