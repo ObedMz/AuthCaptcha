@@ -1,0 +1,4 @@
+name: AuthCaptcha
+main: obed.me.captcha.bungee.BungeeMain
+version: 1.0-SNAPSHOT
+author: obedmz

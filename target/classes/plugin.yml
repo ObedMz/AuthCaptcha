@@ -1,0 +1,6 @@
+name: AuthCaptcha
+main: obed.me.captcha.spigot.SpigotMain
+version: 1.0-SNAPSHOT
+author: obedmz
+description: AuthCaptcha
+website: obedmz.github.io
