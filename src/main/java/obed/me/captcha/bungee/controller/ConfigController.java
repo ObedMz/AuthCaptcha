@@ -1,6 +1,5 @@
 package obed.me.captcha.bungee.controller;
 
-import jdk.nashorn.internal.ir.annotations.Ignore;
 import net.md_5.bungee.config.Configuration;
 import net.md_5.bungee.config.ConfigurationProvider;
 import net.md_5.bungee.config.YamlConfiguration;
